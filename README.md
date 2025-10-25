@@ -134,13 +134,9 @@ It empowers both **students** and **teachers** with modern tools, progress track
 
 ---
 
-## 📄 Documentation & Resources
-📕 **Full Project Report (Google Doc)**  
-[View Report](https://docs.google.com/document/d/1vDTlPQiT5QHVJ9r6AWKR028hCWY5Q2qX/edit?usp=sharing)  
 
-🎥 **Demo Video (Google Drive)**  
-[Watch Video](https://drive.google.com/file/d/1Na6Rf-xBW6lTXv_DSmQtJs6qvxm9ZHbD/view?usp=sharing)  
-
+📘 **PDF Report (Local File)**  
+[Download PDF Report](22SW014-68-StudyPro3.pdf)  
 ---
 
 ## 👥 Team
