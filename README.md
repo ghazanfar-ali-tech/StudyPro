@@ -145,7 +145,7 @@ It empowers both **students** and **teachers** with modern tools, progress track
 
 ## 👥 Team
 - **Ghazanfar Ali**  
-- **Tahira Kainat**  
+- **Mohammad Khan**  
 
 
 
