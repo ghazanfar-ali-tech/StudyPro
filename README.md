@@ -139,6 +139,9 @@ It empowers both **students** and **teachers** with modern tools, progress track
 [Download PDF Report](22SW014-68-StudyPro3.pdf)  
 ---
 
+📘 **PDF Report (Google Drive Link)**  
+[📥 View & Download Report](https://drive.google.com/file/d/1ArJCTfOmBhQFquHVQWGxK4YCYOG-VFJu/view?usp=sharing)
+
 ## 👥 Team
 - **Ghazanfar Ali**  
 - **Mohammad Khan**  
